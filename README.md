@@ -1,4 +1,4 @@
-# Single price grid component
+# Single price component
 
 ## The challenge
 
